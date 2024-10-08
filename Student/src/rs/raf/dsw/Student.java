@@ -13,7 +13,7 @@ public class Student {
 
     // Metod koji ćemo menjati u različitim granama
     public String getFullName() {
-        return firstName + " " + lastName;
+        return firstName + ", " + lastName;
     }
 
     public static void main(String[] args) {
